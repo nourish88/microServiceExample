@@ -1,0 +1,55 @@
+version: '3'
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Ad.min123
+      - MSSQL_PID=Developer
+    ports:
+      - 1433:1433
+    networks:
+      - app-network   
+  postgres:
+    image: postgres
+    container_name: Postgres
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+    ports:
+      - 5432:5432
+    restart: always
+    networks:
+      net:
+        ipv4_address: 10.10.0.2
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: Pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: greenpeace@hotmail.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - 5443:443
+      - 8080:80
+    restart: always
+    networks:
+      net:
+        ipv4_address: 10.10.0.3
+  productService:
+    image: productservice
+    container_name: productservice
+    ports:
+      - 5010:5002
+    restart: always
+    networks:
+      - app-network
+      - net
+networks:
+  net:
+    ipam:
+      driver: default
+      config:
+        - subnet: 10.10.0.0/24
+  app-network:
+volumes:
+  sqlserver_data:

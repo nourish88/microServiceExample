@@ -1,0 +1,21 @@
+USE [ProductDb]
+GO
+
+/****** Object: Table [dbo].[Products] Script Date: 25.10.2023 12:04:20 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Products] (
+    [Id]              INT            IDENTITY (1, 1) NOT NULL,
+    [Name]            NVARCHAR (MAX) NOT NULL,
+    [Description]     NVARCHAR (MAX) NOT NULL,
+    [Quantity]        INT            NOT NULL,
+    [Price]           INT            NOT NULL,
+    [Discount]        INT            NOT NULL,
+    [CreatedDateTime] NVARCHAR (14)  NOT NULL,
+    [Status]          INT            NOT NULL
+);
+

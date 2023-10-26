@@ -1,0 +1,112 @@
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\appsettings.Development.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\appsettings.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\productApi.exe
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\productApi.deps.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\productApi.runtimeconfig.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\productApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\productApi.pdb
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.csproj.AssemblyReference.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.GeneratedMSBuildEditorConfig.editorconfig
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.AssemblyInfoInputs.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.AssemblyInfo.cs
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.csproj.CoreCompileInputs.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.MvcApplicationPartsAssemblyInfo.cs
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.MvcApplicationPartsAssemblyInfo.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets\msbuild.productApi.Microsoft.AspNetCore.StaticWebAssets.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets\msbuild.build.productApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.productApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.productApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets.pack.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets.build.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\staticwebassets.development.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\scopedcss\bundle\productApi.styles.css
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.csproj.CopyComplete
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\refint\productApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.pdb
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\productApi.genruntimeconfig.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\productApi\obj\Debug\net7.0\ref\productApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\appsettings.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\productApi.exe
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\productApi.deps.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\productApi.runtimeconfig.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\productApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\productApi.pdb
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.csproj.AssemblyReference.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.AssemblyInfoInputs.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.AssemblyInfo.cs
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.csproj.CoreCompileInputs.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets\msbuild.productApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets\msbuild.build.productApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.productApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.productApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\scopedcss\bundle\productApi.styles.css
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.csproj.CopyComplete
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\refint\productApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.pdb
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\productApi.genruntimeconfig.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\obj\Debug\net7.0\ref\productApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Ardalis.GuardClauses.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\productApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

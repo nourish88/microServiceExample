@@ -1,0 +1,76 @@
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\appsettings.Development.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\appsettings.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\customerApi.exe
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\customerApi.deps.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\customerApi.runtimeconfig.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\customerApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\customerApi.pdb
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.csproj.AssemblyReference.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.GeneratedMSBuildEditorConfig.editorconfig
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.AssemblyInfoInputs.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.AssemblyInfo.cs
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.csproj.CoreCompileInputs.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.MvcApplicationPartsAssemblyInfo.cs
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.MvcApplicationPartsAssemblyInfo.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.customerApi.Microsoft.AspNetCore.StaticWebAssets.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.build.customerApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.customerApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.customerApi.props
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets.pack.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets.build.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\staticwebassets.development.json
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\scopedcss\bundle\customerApi.styles.css
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.csproj.CopyComplete
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\refint\customerApi.dll
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.pdb
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\customerApi.genruntimeconfig.cache
+T:\Education\HTML5-CSS-Javascript\Bootstrap\JMicroService\customerApi\obj\Debug\net7.0\ref\customerApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\appsettings.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\customerApi.exe
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\customerApi.deps.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\customerApi.runtimeconfig.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\customerApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\customerApi.pdb
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.csproj.AssemblyReference.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.AssemblyInfoInputs.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.AssemblyInfo.cs
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.csproj.CoreCompileInputs.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.customerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.build.customerApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.customerApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.customerApi.props
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\scopedcss\bundle\customerApi.styles.css
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.csproj.CopyComplete
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\refint\customerApi.dll
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.pdb
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\customerApi.genruntimeconfig.cache
+C:\Users\digitalvizyon\Desktop\Yeni klasör (2)\microservice.net\customerApi\obj\Debug\net7.0\ref\customerApi.dll
